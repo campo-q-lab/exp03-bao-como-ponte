@@ -1,0 +1,17 @@
+{
+  "id": "exp03_bao_como_ponte",
+  "titulo": "Experimento 3 - BAO como Ponte",
+  "autor": "Alessandro Q. V. Castro",
+  "projeto": "Teoria do Evento",
+  "tipo": "toy-model cosmológico",
+  "metodo": "inferência aproximada de r_d",
+  "regime": "early-late interface",
+  "dados": [
+    "SDSS BAO",
+    "Planck CMB"
+  ],
+  "status": "exploratório",
+  "nao_prova_TE": true,
+  "assume_modelo_padrao": true,
+  "data": "2026-01"
+}
