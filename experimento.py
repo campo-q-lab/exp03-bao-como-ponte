@@ -38,4 +38,6 @@ nsigma_cchp = delta_cchp / err_rd_cchp
 
 print("Experimento 3 – BAO como Ponte")
 print(f"r_d Planck (early): {rd_planck:.2f} Mpc")
-print(f"r_d_
+print(f"r_d inferido SH0ES (H0=73): {rd_sh0es:.1f} → Δ = {delta_sh0es:.1f}, ~{nsigma_sh0es:.1f}σ")
+print(f"r_d inferido CCHP (H0=70.4): {rd_cchp:.1f} → Δ = {delta_cchp:.1f}, ~{nsigma_cchp:.1f}σ")
+print("Conclusão: BAO favorece o regime early-universe; a tensão concentra-se na calibração late.")
